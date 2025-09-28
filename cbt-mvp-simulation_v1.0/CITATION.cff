@@ -1,3 +1,5 @@
+version: "v1.0.2"
+doi: "10.5281/zenodo.17216862"
 cff-version: 1.2.0
 message: "If you use this software or materials, please cite the release DOI."
 title: "CBT MVP Simulation"
@@ -17,4 +19,6 @@ If you use this repository or materials, please cite:
 and the concept note:
 
 > Castro Arroyo, M. A. (2025). *Construct-Based Transformers: A Conceptual Architecture and MVP Simulation*. (Preprint PDF in `paper/`).
+
+
 
