@@ -9,3 +9,12 @@ authors:
 repository-code: "https://github.com/mcastroarroyo/cbt-mvp-simulation"
 license: "Apache-2.0 (code), CC-BY-NC-ND-4.0 (content)"
 date-released: "2025-09-28"
+## Citation
+If you use this repository or materials, please cite:
+
+> Castro Arroyo, M. A. (2025). *CBT MVP Simulation (v1.0.2)* [Software and materials]. Zenodo. https://doi.org/10.5281/zenodo.17216862
+
+and the concept note:
+
+> Castro Arroyo, M. A. (2025). *Construct-Based Transformers: A Conceptual Architecture and MVP Simulation*. (Preprint PDF in `paper/`).
+
