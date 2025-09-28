@@ -1,0 +1,23 @@
+# Stage 2 — Structural Reasoner (Prompt Template)
+You receive a JSON of constructs with scores and evidence. Apply explicit rules to produce a plan.
+
+INSTRUCTIONS:
+- Use the RULES (below) to map constructs to decisions.
+- Show which rules were applied ("rules_fired").
+- Produce a plan with goals, actions, and trade-offs.
+
+INPUT: JSON from Stage 1
+RULES: (the runner will inject a YAML/JSON ruleset; see rules/sample_rules.yaml)
+
+OUTPUT JSON SCHEMA:
+{
+  "rules_fired": ["R1", "R3"],
+  "rationale": "why the rules fired based on constructs",
+  "plan": {
+    "goals": ["..."],
+    "actions": [{"name": "Action A", "justification": "..." }],
+    "tradeoffs": ["..."]
+  }
+}
+
+Ensure valid JSON only.

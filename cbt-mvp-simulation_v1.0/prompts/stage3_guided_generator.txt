@@ -1,0 +1,15 @@
+# Stage 3 — Guided Generator (Prompt Template)
+You will write the final answer grounded on the Stage-2 plan and the original query.
+
+INSTRUCTIONS:
+- Use the plan (goals, actions, trade-offs) as the backbone.
+- Reference the rationale briefly (no JSON, just prose).
+- Be concise, decisive, and actionable.
+- Do NOT contradict the plan.
+
+INPUTS:
+- Original query
+- Stage-2 plan JSON
+
+OUTPUT:
+- A polished, domain-appropriate answer in prose (no JSON).

@@ -1,0 +1,19 @@
+{
+  "constructs": [
+    {
+      "name": "Competitive_Threat",
+      "score": 0.78,
+      "evidence": "losing active users to a new competitor"
+    },
+    {
+      "name": "Brand_Equity",
+      "score": 0.64,
+      "evidence": "our brand is respected"
+    },
+    {
+      "name": "Cost_Pressure",
+      "score": 0.58,
+      "evidence": "cost pressure is rising"
+    }
+  ]
+}

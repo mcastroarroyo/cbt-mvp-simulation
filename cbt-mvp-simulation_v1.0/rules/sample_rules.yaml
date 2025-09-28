@@ -1,0 +1,30 @@
+# sample_rules.yaml — edit to your domain
+# Simple weighted influences and threshold rules
+
+construct_weights:
+  Competitive_Threat: 0.6
+  Brand_Equity: 0.2
+  Customer_Sentiment: 0.3
+  Operational_Risk: 0.5
+  Cost_Pressure: 0.4
+
+rules:
+  - id: R1
+    if: "Competitive_Threat >= 0.6 and Brand_Equity < 0.5"
+    then:
+      goals: ["Defend market share"]
+      actions:
+        - "Accelerate defensive feature parity"
+        - "Targeted retention offers for at-risk segments"
+      tradeoffs:
+        - "Short-term margin compression"
+
+  - id: R2
+    if: "Customer_Sentiment >= 0.7 and Cost_Pressure >= 0.5"
+    then:
+      goals: ["Protect perceived value while optimizing costs"]
+      actions:
+        - "Bundle value-add services to preserve price points"
+        - "Negotiate vendor contracts for input savings"
+      tradeoffs:
+        - "Potential feature backlog delay"

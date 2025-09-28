@@ -1,0 +1,18 @@
+# LLM-as-a-Judge Rubric
+Score the RESPONSE on a 1–10 scale for each criterion. Provide brief justification for each score.
+
+CRITERIA:
+1) Strategic Coherence — Is there a clear throughline from problem to plan?
+2) Actionability — Are next steps concrete, prioritized, and feasible?
+3) Decisiveness — Does the response make a choice and defend it?
+
+OUTPUT JSON SCHEMA:
+{
+  "scores": {"strategic_coherence": 9, "actionability": 8, "decisiveness": 9},
+  "justifications": {
+    "strategic_coherence": "…",
+    "actionability": "…",
+    "decisiveness": "…"
+  }
+}
+Ensure valid JSON only.

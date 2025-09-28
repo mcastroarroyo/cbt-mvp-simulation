@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or materials, please cite the release DOI."
+title: "CBT MVP Simulation"
+version: "v1.0"
+authors:
+  - family-names: "Castro Arroyo"
+    given-names: "Miguel Ángel"
+    orcid: "https://orcid.org/0000-0002-3361-1022"
+repository-code: "https://github.com/mcastroarroyo/cbt-mvp-simulation"
+license: "Apache-2.0 (code), CC-BY-NC-ND-4.0 (content)"
+date-released: "2025-09-28"

@@ -1,0 +1,4 @@
+USER QUERY:
+We are losing active users to a new competitor with aggressive pricing. Our brand is respected but cost pressure is rising.
+
+(Use Stage-1 prompt to extract constructs, then Stage-2 rules, then Stage-3 final.)

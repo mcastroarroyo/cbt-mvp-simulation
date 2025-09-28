@@ -1,0 +1,35 @@
+{
+  "rules_fired": [
+    "R1",
+    "R2"
+  ],
+  "rationale": "High Competitive_Threat plus rising Cost_Pressure; moderate Brand_Equity allows bundling to protect price points.",
+  "plan": {
+    "goals": [
+      "Defend market share",
+      "Protect perceived value while optimizing costs"
+    ],
+    "actions": [
+      {
+        "name": "Accelerate defensive feature parity",
+        "justification": "Counter competitor pricing with value-rich parity"
+      },
+      {
+        "name": "Targeted retention offers for at-risk segments",
+        "justification": "Reduce churn in vulnerable cohorts"
+      },
+      {
+        "name": "Bundle value-add services",
+        "justification": "Maintain price points while adding perceived value"
+      },
+      {
+        "name": "Negotiate vendor contracts",
+        "justification": "Offset cost pressure"
+      }
+    ],
+    "tradeoffs": [
+      "Short-term margin compression",
+      "Potential feature backlog delay"
+    ]
+  }
+}
