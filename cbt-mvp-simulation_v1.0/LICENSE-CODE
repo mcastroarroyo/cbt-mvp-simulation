@@ -1,6 +1,45 @@
-License: Polyform Noncommercial License 1.0.0
-https://polyformproject.org/licenses/noncommercial/1.0.0/
+Responsible AI License (RAIL) — Non-Commercial (NC)
 
-This code is released for research and non-commercial purposes only.
-No patent rights are granted. For commercial licensing, contact: info@zalesgen.com
+Version: 1.0 — Adapted for the CBT Project (MVP Simulation)
+
+This software and associated materials are made available for
+research and non-commercial purposes only.
+
+Permission is granted to use, copy, modify, and share this code
+for academic research, teaching, experimentation, and evaluation,
+provided that the following conditions are met:
+
+1. Non-Commercial Use Only
+   - You may not use this code, or any derivative works,
+     for commercial purposes. "Commercial purposes" means
+     revenue-generating activities, product integration,
+     or any use intended for commercial advantage.
+
+2. Responsible Use
+   - You may not use this software or its outputs in
+     applications that violate laws, infringe on rights,
+     or cause harm.
+
+3. Patent Notice
+   - No patent license is granted or implied by this license.
+     The underlying inventions — including the specialization
+     of construct heads and training regime with auxiliary
+     losses, variance maximization, and orthogonal regularization —
+     are subject to a patent application filed with SENADI (Ecuador).
+     For commercial licensing, contact: info@zalesgen.com
+
+4. Attribution
+   - You must provide appropriate credit to the original author
+     (Miguel Angel Castro), include a copy of this license,
+     and indicate if changes were made.
+
+5. No Warranty
+   - This software is provided “as is”, without warranty of any kind,
+     express or implied, including but not limited to fitness for a
+     particular purpose.
+
+---
+
+For commercial use or licensing inquiries, please contact:
+info@zalesgen.com
 
